@@ -1,0 +1,11 @@
+Body{
+	 font-family: Verdana, Geneva, Arial, sans-serif;
+	 text-align: justify;
+	 color: black;
+	 background-color: rgba(255, 192, 51, 0.5);
+}
+
+em{
+	font-size: 2rem;
+	font-weight: normal;
+}

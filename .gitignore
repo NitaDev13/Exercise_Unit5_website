@@ -1,0 +1,6 @@
+# Ignore editor-specific files
+.vscode/
+.DS_Store
+
+# Ignore temporary files
+.log
